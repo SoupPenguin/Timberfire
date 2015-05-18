@@ -1,4 +1,4 @@
 Timberfire
 ==========
 
-Opensource game engine for Linux/Windows/Mac
+Opensource HTML5/WebGL Engine with an Xna-like API
